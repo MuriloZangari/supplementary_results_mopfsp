@@ -13,4 +13,4 @@ We have compiled our best known sets. The sets have been created by the union of
 
 2) Supplentary Document:
 
-The document 'supplementaryResults.pdf' includes additional tables and analysis of the results obtained for Makespan and Total Flowtime such as the average Hypervolume and CPU time.
+The document 'supplementaryResultsInformationScience.pdf' includes additional tables and analysis of the results obtained for Makespan and Total Flowtime such as the average Hypervolume and CPU time.
